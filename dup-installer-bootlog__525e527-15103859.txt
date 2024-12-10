@@ -1,0 +1,36 @@
+[Nov 27 09:26:41] 
+[Nov 27 09:26:41] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$extractionTmpFolder is deprecated [CODE:8192|FILE:C:\xampp\htdocs\shoppo\installer.php|LINE:99]
+[Nov 27 09:26:41] ==DUPLICATOR INSTALLER BOOTSTRAP v1.5.6==
+[Nov 27 09:26:41] ----------------------------------------------------
+[Nov 27 09:26:41] Installer bootstrap start
+[Nov 27 09:26:41] Manual extract found so not going to extract dup-installer dir
+[Nov 27 09:26:41] EXTRACT dup-installer dir
+[Nov 27 09:26:41] Successfully deleted the file C:/xampp/htdocs/shoppo/dup-installer/dup-installer-log__[HASH].txt
+[Nov 27 09:26:41] NOTICE: Didn't need to extract the installer.
+[Nov 27 09:26:41] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$archive is deprecated [CODE:8192|FILE:C:\xampp\htdocs\shoppo\installer.php|LINE:529]
+[Nov 27 09:26:41] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$bootloader is deprecated [CODE:8192|FILE:C:\xampp\htdocs\shoppo\installer.php|LINE:530]
+[Nov 27 09:26:41] Set permissions of dup-installer<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/addons<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/assets<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/classes<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/ctrls<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/favicon<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/libs<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/original_files_[HASH]<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/src<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/templates<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/vendor<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/dup-archive__[HASH].txt<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/dup-database__[HASH].sql<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/dup-installer-csrf__[HASH].txt<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/dup-installer-notices__[HASH].json<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/dup-manual-extract__[HASH]<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/dup-params__[HASH].json<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/dup-scan__[HASH].json<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/dup-scanned-dirs__[HASH].txt<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/dup-scanned-files__[HASH].txt<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/index.php<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/main.installer.php<br/>
+[Nov 27 09:26:41] Set permissions of dup-installer/php_error__[HASH].log<br/>
+[Nov 27 09:26:41] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://localhost/shoppo/dup-installer/main.installer.php
+[Nov 27 09:26:41] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$extractionTmpFolder is deprecated [CODE:8192|FILE:C:\xampp\htdocs\shoppo\installer.php|LINE:99]

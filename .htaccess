@@ -1,0 +1,12 @@
+# This file was updated by Duplicator on 2024-11-27 11:41:03.
+# See the original_files_ folder for the original source_site_htaccess file.
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /shoppo/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /shoppo/index.php [L]
+</IfModule>
+# END WordPress
